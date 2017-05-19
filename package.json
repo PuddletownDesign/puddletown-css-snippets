@@ -1,16 +1,16 @@
 {
-    "name": "puddletown-css-snippets",
-    "main": "./lib/puddletown-css-snippets",
-    "version": "1.0.0",
-    "description": "A collection of CSS snippets from Puddletown Design",
-    "keywords": [
-        "snippets",
-        "css"
-    ],
-    "repository": "https://github.com/PuddletownDesign/puddletown-css-snippets",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "puddletown-css-snippets",
+  "main": "./lib/puddletown-css-snippets",
+  "version": "1.0.1",
+  "description": "A collection of CSS snippets from Puddletown Design",
+  "keywords": [
+    "snippets",
+    "css"
+  ],
+  "repository": "https://github.com/PuddletownDesign/puddletown-css-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
