@@ -1,7 +1,7 @@
 {
   "name": "puddletown-css-snippets",
   "main": "./lib/puddletown-css-snippets",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A collection of CSS snippets from Puddletown Design",
   "keywords": [
     "snippets",
